@@ -1,0 +1,13 @@
+model\dao\BankAccountDAO.class
+model\dao\UserAdminDAO.class
+controller\beansDB\Transaction.class
+controller\servlets\Register.class
+model\dao\UserClientDAO.class
+controller\beansDB\BankAccount.class
+controller\beansDB\BankTransfer.class
+controller\beansDB\UserAdmin.class
+controller\conectionDB.class
+controller\beansDB\UserClient.class
+model\dao\DBConnection.class
+controller\beansDB\Person.class
+model\dao\PersonDAO.class
